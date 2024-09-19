@@ -1,7 +1,7 @@
 # project_Instacart
 Análisis exploratorio de datos - Instacart es una plataforma de entregas de comestibles
 
-Proyecto hecho para TripleTen (Bootcamp online)
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 4. Manipulación de datos (Data Wrangling).
 
 ### Descripción del proyecto
 
