@@ -1,22 +1,31 @@
-# project_Instacart
+# instacart-shopping-habits-analysis
 Análisis exploratorio de datos - Instacart es una plataforma de entregas de comestibles / Exploratory Data Analysis - Instacart is a Grocery Delivery Platform
 
 Proyecto hecho para TripleTen (Bootcamp online) - Sprint 4. Manipulación de datos / Project completed for TripleTen (Online Bootcamp) - Sprint 4. Data Wrangling.
 
-### Descripción del proyecto / Project Description
-
-Para este proyecto, trabajaré con datos de Instacart.
-
-Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash. Este conjunto de datos particular fue lanzado públicamente por Instacart en 2017 para una competición Kaggle.
-
-El conjunto de datos tiene modificaciones del original. Los datos reales pueden descargarse directamente de la página de la competición Kaggle.
-El objetivo del proyecto es limpiar los datos y preparar un informe que brinde información sobre los hábitos de compra de los clientes de Instacart. 
+## Contexto del Proyecto / Project Context:
+Este proyecto está basado en un estudio de caso de análisis exploratorio de datos utilizando un conjunto de datos proporcionado por Instacart, una plataforma de entrega de comestibles. El objetivo es limpiar y analizar los datos de los pedidos realizados por los clientes, explorar patrones de compra y proporcionar información sobre los hábitos de consumo en la plataforma.
 
 ---
 
-For this project, I will be working with data from Instacart.
+This project is based on a case study of exploratory data analysis using a dataset provided by Instacart, a grocery delivery platform. The objective is to clean and analyze data from orders placed by customers, explore shopping patterns and provide insights into consumption habits on the platform.
 
-Instacart is a grocery delivery platform where customers can place orders and have them delivered to their homes, similar to Uber Eats and DoorDash. This particular dataset was publicly released by Instacart in 2017 for a Kaggle competition.
+## Objetivo del Proyecto / Project Objective:
+El objetivo principal es limpiar, procesar y analizar los datos para obtener información útil sobre las compras de los clientes, identificando patrones y proporcionando respuestas a preguntas clave relacionadas con los comportamientos de compra.
 
-The dataset has been modified from the original, and the actual data can be downloaded directly from the Kaggle competition page.
-The goal of the project is to clean the data and prepare a report that provides insights into the shopping habits of Instacart customers.
+---
+
+The main objective is to clean, process and analyze data to obtain useful information about customer purchases, identifying patterns and providing answers to key questions related to shopping behaviors.
+
+## Archivos del Proyecto / Project Files:
+- instacart_orders.csv: Información sobre los pedidos realizados por los clientes. / Information about orders placed by customers.
+- products.csv: Información sobre los productos disponibles en la plataforma. / Information about the products available on the platform.
+- order_products.csv: Detalles de los productos pedidos en cada transacción. / Details of the products ordered in each transaction.
+- aisles.csv: Información sobre las categorías de los pasillos de víveres. / Information about the categories of the grocery aisles.
+- departments.csv: Información sobre los departamentos de víveres en la tienda. / Information about the grocery departments in the store.
+
+## Herramientas Utilizadas / Tools Used:
+- Python: Lenguaje de programación principal utilizado para el análisis de datos. / Primary programming language used for data analysis.
+- Pandas: Biblioteca utilizada para la manipulación y análisis de los datos en estructuras tabulares. / Library used for manipulation and analysis of data in tabular structures.
+- Matplotlib/Seaborn: Bibliotecas para la visualización de datos, especialmente gráficos y diagramas para mostrar patrones y distribuciones. / Libraries for data visualization, especially graphs and charts to show patterns and distributions.
+- Jupyter Notebook: Entorno de desarrollo utilizado para la ejecución del código, visualización de los resultados y documentación del proceso. / Development environment used for code execution, visualization of results and documentation of the process.
