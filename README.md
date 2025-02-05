@@ -27,5 +27,4 @@ The main objective is to clean, process and analyze data to obtain useful inform
 ## Herramientas Utilizadas / Tools Used:
 - Python: Lenguaje de programación principal utilizado para el análisis de datos. / Primary programming language used for data analysis.
 - Pandas: Biblioteca utilizada para la manipulación y análisis de los datos en estructuras tabulares. / Library used for manipulation and analysis of data in tabular structures.
-- Matplotlib/Seaborn: Bibliotecas para la visualización de datos, especialmente gráficos y diagramas para mostrar patrones y distribuciones. / Libraries for data visualization, especially graphs and charts to show patterns and distributions.
 - Jupyter Notebook: Entorno de desarrollo utilizado para la ejecución del código, visualización de los resultados y documentación del proceso. / Development environment used for code execution, visualization of results and documentation of the process.
